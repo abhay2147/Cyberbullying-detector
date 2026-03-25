@@ -1,0 +1,8 @@
+torch
+transformers
+discord.py
+nest_asyncio
+scikit-learn
+pandas
+numpy
+datasets

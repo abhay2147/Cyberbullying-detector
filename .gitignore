@@ -1,0 +1,7 @@
+# Never upload these!
+*.env
+bot_token.txt
+cyberbullying_model/
+__pycache__/
+*.pyc
+.DS_Store
